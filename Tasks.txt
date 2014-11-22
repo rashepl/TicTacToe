@@ -1,0 +1,13 @@
+This is a list of tasks this software will eventually perform:
+
+* gameplay against the computer (artificial intelligence)
+* track the number of wins/losses for each player
+* allow users to customize the colors of the game board/characters
+* allow users to choose which types of characters to use: Ex. "X" could be "$" instead
+* include a timer and track wins by time
+* allow users to create a custom sized grid: Ex. instead of the simple 3X3 grid, allow a user to play on a 4X4 grid
+* provide the ability to save an in-progress game
+* allow the characters used to resize within the grid
+* add an option to open a new game on start-up
+* prompt the user when closing an in-progress game if the game is to be saved
+* include an undo move capability
